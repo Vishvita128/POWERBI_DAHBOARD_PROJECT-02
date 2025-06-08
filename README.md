@@ -1,4 +1,4 @@
-# POWERBI_DAHBOARD_PROJECT-02
+ni# POWERBI_DAHBOARD_PROJECT-02
 
 Blinkit Sales Analysis Dashboard –
 This Power BI dashboard analyzes sales and operational performance data for Blinkit, India's last-minute grocery delivery app. It provides actionable insights on key performance metrics across different outlet sizes, locations, and item types.
@@ -14,7 +14,7 @@ DASHBOARD FEATURES -
 
 1. Dynamic Filter Panel: Filter by Outlet Location Type, Outlet Size, and Item Type
 
-2.Sales Breakdown:
+2. Sales Breakdown:
 (A) By Item Type (e.g., Fruits, Snacks, Beverages)
 (B) By Fat Content (Low Fat vs. Regular)
 (C) By Outlet Type (e.g., Supermarket, Grocery Store)
